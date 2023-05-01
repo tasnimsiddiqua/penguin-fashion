@@ -1,0 +1,60 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.upper-sec {
+    background-color: rgba(255, 251, 240, 255);
+   
+}
+
+nav img {
+    width: 230px;
+}
+
+li {
+    padding: 12px;
+}
+
+.banner img {
+    width: 400px;
+}
+
+.highlight-yellow {
+    color: rgba(250, 190, 76, 255);
+
+
+}
+
+.highlight-blue {
+    color:#363958 !important;
+
+}
+.heading{
+    font-size: 60px;
+}
+
+.custome-btn {
+    background-color: rgba(164, 188, 70, 255);
+    height: 55px;
+    width: 150px;
+    border: 0cap;
+    border-radius: 10px;
+    color: white;
+}
+
+
+
+.shop-img {
+    width: 70px;
+}
+
+
+.custom-height {
+    height: 400px;
+}
+
